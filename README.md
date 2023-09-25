@@ -1,3 +1,4 @@
+![dashboard](https://github.com/Sourav-Sharma-191940/react-bootstrap-dashboard/assets/60056045/f80acded-f04d-4bc4-a35c-a9979f00e937)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -6,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 ### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
